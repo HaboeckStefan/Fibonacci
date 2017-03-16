@@ -3,4 +3,4 @@ sudo: false
 jdk:
    oraclejdk8
 script:
-ant compile.module.fibonacci.tests
+   ant compile.module.fibonacci.tests
