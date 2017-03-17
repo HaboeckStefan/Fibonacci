@@ -24,7 +24,7 @@ public class fibonacci {
         System.out.println("Zahl1: "+number1+" Zahl2: "+number2+"\n");
 
         if(number1 < 10000)
-            calculatefibonaccifolge(number1,number2);
+            calculatefibonaccifolge(nuber1,number2);
         else
             System.out.println("Exit");
     }
